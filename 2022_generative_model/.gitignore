@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+
+# image files
+*.png
+*jpg
+
+# individual folders
+/dcgan_pytorch_tutorial/hanbit
